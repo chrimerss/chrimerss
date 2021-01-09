@@ -60,3 +60,9 @@ Oral presentation - Two-decades of GPM IMERG Early and Final Run Products Interc
 |Tripple Collocation|2020|[TC method](https://github.com/chrimerss/TripleCollocation)|
 |Singapore radar|2019|NA|
 |CCTV rainfall camera|2019|[Rainfall Camera](https://github.com/chrimerss/RainfallCamera)|
+
+## Activities
+---
+
+[![Allen's github stats](https://github-readme-stats.vercel.app/api?username=chrimerss&show_icons=true&theme=Gradient)](https://github.com/chrimerss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrimerss&langs_count=8&layout=compact)](https://github.com/chrimerss)
