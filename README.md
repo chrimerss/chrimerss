@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-[![Google Scholar Badge](https://img.shields.io/badge/Google%20scholar-Zhi%20Li-brightgreen)](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en)
-[![ResearchGate Badge](https://img.shields.io/badge/Research%20Gate-Zhi%20Li-brightgreen)](https://www.researchgate.net/profile/Zhi_Li232)
-[![HyDROS Badge](https://img.shields.io/badge/HyDROS-Zhi%20Li-red)](http://hydro.ou.edu/)
-[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-Zhi%20Li-blue)](https://www.linkedin.com/in/zhi-li-a79116167/)
+[![Google Scholar Badge](https://img.shields.io/badge/-Google%20scholar-brightgreen)](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en)
+[![ResearchGate Badge](https://img.shields.io/badge/-Research%20Gate-blue)](https://www.researchgate.net/profile/Zhi_Li232)
+[![HyDROS Badge](https://img.shields.io/badge/-HyDROS%20lab-orange)](http://hydro.ou.edu/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/zhi-li-a79116167/)
 [![web Badge](https://img.shields.io/badge/-Personal%20Website-red)](http://smartallen.me/)
 [![lib Badge](https://img.shields.io/badge/-Personal%20Library-red)](https://chrimerss.github.io/allenslib/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chrimerss.chrimerss)
