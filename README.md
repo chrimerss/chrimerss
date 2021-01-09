@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![stars Badge](https://img.shields.io/github/stars/chrimerss?style=social)
 ![last update Badge](https://img.shields.io/github/last-commit/chrimerss/chrimerss)
 
-I am a PhD student at the university of Oklahoma, affiliated in the HyDROS lab. My research spans from remote sensing estimates of precipitation, to fundamental hydrology, and to flood inundation mapping. I am actively looking for collaborations in these areas 👯.
+I am a PhD student at the university of Oklahoma, affiliated with the HyDROS lab. My research spans from remote sensing estimates of precipitation, to fundamental hydrology, to hydrologic modelling, and to flood inundation mapping. I am actively looking for collaborations in these areas 👯.
 
 ## Publication
 ---
@@ -52,6 +52,8 @@ Oral presentation - Two-decades of GPM IMERG Early and Final Run Products Interc
 
 |Name|Year|repository|
 |----|----|----------|
+|Climate change impact on Flood inundation|2021 (Ongoing)|[inundation response](https://github.com/chrimerss/FloodResponseToClimateChange)|
+|Precipitation ensemble nowcast|2020 (Ongoing)|[precipitation nowcast](https://github.com/chrimerss/EnsembleNowcast)|
 |Flood inundation mapping with SAR|2020|[Flood inundation](https://github.com/chrimerss/FloodDetectionUsingSAR)|
 |Satellite precipitation retrievals with deep learning|2020|[AMSU](https://github.com/chrimerss/AMSU-MRMS)|
 |Global analysis of 20-yrs GPM IMERG|2020|[IMERG](https://github.com/chrimerss/20yrsGPM_Analysis)|
