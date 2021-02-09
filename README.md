@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![GitHub Badge](https://img.shields.io/github/followers/chrimerss?label=Followers&style=social)](https://github.com/chrimerss?tab=followers)
 ![stars Badge](https://img.shields.io/github/stars/chrimerss?style=social)
 ![last update Badge](https://img.shields.io/github/last-commit/chrimerss/chrimerss)
+[![Flood inundation simulations](https://img.shields.io/badge/-Flood%20inundation%20simulation-blue)](https://chrimerss.users.earthengine.app/view/floodcollections)
 
 I am a PhD student at the university of Oklahoma, affiliated with the HyDROS lab. My research spans from remote sensing estimates of precipitation, to fundamental hydrology, to hydrologic modelling, and to flood inundation mapping. I am actively looking for collaborations in these areas 👯.
 
