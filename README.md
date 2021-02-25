@@ -34,6 +34,8 @@ I am a PhD student at the university of Oklahoma, affiliated with the HyDROS lab
 ## Publication
 ---
 
+__Li, Z.__, Chen, M., Gao, S., Gourley, J. J., Yang, T., Shen, X., Kolar, R., and Hong, Y.: A multi-source 120-year U.S. flood database with a unified common format and public access, Earth Syst. Sci. Data Discuss. [preprint], https://doi.org/10.5194/essd-2021-36, in review, 2021.
+
 __Li, Z.__, Tang, G., Hong, Z., Chen, M., Gao, S., Kirstetter, P., Gourley, J.J., Wen, Y.,Yami, T., Nabih, S., Hong, Y., Two-decades of GPM IMERG Early and Final Run Products Intercomparison:Similarity and Difference in Climatology, Rates, and Extremes, Journal of Hydrology (2021). https://doi.org/10.1016/j.jhydrol.2021.125975
 
 __Li, Z.__, Wen, Y., Schreier, M., Behrangi, A., Hong, Y., & Lambrigtsen, B. (2020). Advancing satellite precipitation retrievals with data driven approaches: is black box model explainable?. Earth and Space Science, 7, e2020EA001423. https://doi.org/10.1029/2020EA001423
