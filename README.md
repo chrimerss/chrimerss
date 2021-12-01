@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![HyDROS Badge](https://img.shields.io/badge/-HyDROS%20lab-orange)](http://hydro.ou.edu/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/zhi-li-a79116167/)
 [![wechat badge](https://img.shields.io/badge/-Wechat-brightgreen)](https://github.com/chrimerss/chrimerss/blob/main/src/wechat_QR.jpg?raw=true)
+[![twitter](https://img.shields.io/twitter/follow/chrimersslee?style=social)](https://twitter.com/chrimersslee)
 [![web Badge](https://img.shields.io/badge/-Personal%20Website-red)](http://smartallen.me/)
 [![lib Badge](https://img.shields.io/badge/-Personal%20Library-red)](https://chrimerss.github.io/allenslib/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chrimerss.chrimerss)
