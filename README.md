@@ -35,6 +35,8 @@ I am a PhD student at the university of Oklahoma, affiliated with the HyDROS lab
 ## Publication
 ---
 
+__Li, Z.__, Guoqiang Tang, Pierre Kirstetter, Shang Gao, J.L. Li, Yixin Wen, Yang Hong, 2022. Evaluation of GPM IMERG and its constellations in extreme events over the conterminous united states, Journal of Hydrology, 606, 127357. https://doi.org/10.1016/j.jhydrol.2021.127357
+
 __Li, Z.__, Chen, M., Gao, S., Luo, X., Gourley, J., Kirstetter, P., Yang, T., Kolar, R., McGovern, A., Wen, Y., Rao, B., Yami, T., Hong, Y., 2021. CREST-iMAP v1.0: A fully coupled hydrologic-hydraulic modeling framework dedicated to flood inundation mapping and prediction, Environmental Modelling and Software, 141, 105051.
 
 __Li, Z.__, Chen, M., Gao, S., Gourley, J. J., Yang, T., Shen, X., Kolar, R., and Hong, Y.: A multi-source 120-year U.S. flood database with a unified common format and public access, Earth Syst. Sci. Data Discuss. [preprint], https://doi.org/10.5194/essd-2021-36, in review, 2021.
