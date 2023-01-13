@@ -33,7 +33,12 @@ Here are some ideas to get you started:
 I am a PhD student at the university of Oklahoma, affiliated with the HyDROS lab. My research spans from remote sensing estimates of precipitation, to fundamental hydrology, to hydrologic modelling, and to flood inundation mapping. I am actively looking for collaborations in these areas 👯.
 
 ## Publication
+
 ---
+
+__Not updated after 2020, full list of publication is at [my website](http://hydrors.us/?page_id=19)__
+
+
 
 __Li, Z.__, Gao, S., Chen, M. et al. The conterminous United States are projected to become more prone to flash floods in a high-end emissions scenario. Commun Earth Environ 3, 86 (2022). https://doi.org/10.1038/s43247-022-00409-6
 
