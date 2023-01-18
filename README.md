@@ -36,7 +36,7 @@ I am a PhD student at the university of Oklahoma, affiliated with the HyDROS lab
 
 ---
 
-__Not updated after 2020, full list of publication is at [my website](http://hydrors.us/?page_id=19)__
+__Not updated after 2022, full list of publication is at [my website](http://hydrors.us/?page_id=19)__
 
 
 
