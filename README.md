@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20scholar-brightgreen)](https://scholar.google.com.sg/citations?user=JQ7mr1QAAAAJ&hl=en)
 [![ResearchGate Badge](https://img.shields.io/badge/-Research%20Gate-blue)](https://www.researchgate.net/profile/Zhi_Li232)
-[![HyDROS Badge](https://img.shields.io/badge/-HyDROS%20lab-orange)](http://hydro.ou.edu/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/zhi-li-a79116167/)
 [![wechat badge](https://img.shields.io/badge/-Wechat-brightgreen)](https://github.com/chrimerss/chrimerss/blob/main/src/wechat_QR.jpg?raw=true)
 [![twitter](https://img.shields.io/twitter/follow/chrimersslee?style=social)](https://twitter.com/chrimersslee)
