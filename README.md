@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 ![last update Badge](https://img.shields.io/github/last-commit/chrimerss/chrimerss)
 [![Flood inundation simulations](https://img.shields.io/badge/-Flood%20inundation%20simulation-blue)](https://chrimerss.users.earthengine.app/view/floodcollections)
 
-I am currently a postdoctoral scholar at Stanford University ('23-'25). My research spans from remote sensing estimates of precipitation, to fundamental hydrology, to hydrologic modelling, and to flood inundation mapping, and to social perspectives of flood impacts. I am actively looking for collaborations in these areas 👯. 
+I am currently an Assistant Professor at CU Boulder. My research spans from remote sensing estimates of precipitation, to fundamental hydrology, to hydrologic modelling, and to flood inundation mapping, and to social perspectives of flood impacts. I am actively looking for collaborations in these areas 👯. 
 
 ## Publication
 
 ---
 
-__Not updated after 2022, a full list of publication is at [my website](http://hydrors.us/?page_id=19)__
+__Not updated after 2022, a full list of publication is at [my website](http://hydrors.us/publications)__
 
 
 
