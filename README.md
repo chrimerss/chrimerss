@@ -67,17 +67,74 @@ Oral presentation - Two-decades of GPM IMERG Early and Final Run Products Interc
 ## Projects
 ---
 
-|Name|Year|repository|
-|----|----|----------|
-|the Coupled Routing and Excess STorage - inundation MApping and Prediction|2021 (Ongoing)|[CREST-iMAP](https://github.com/chrimerss/Landlab-CRESTiMAP)|
-|Climate change impact on Flood inundation|2021 (Ongoing)|[inundation response](https://github.com/chrimerss/FloodResponseToClimateChange)|
-|Precipitation ensemble nowcast|2020 (Ongoing)|[precipitation nowcast](https://github.com/chrimerss/EnsembleNowcast)|
-|Flood inundation mapping with SAR|2020|[Flood inundation](https://github.com/chrimerss/FloodDetectionUsingSAR)|
-|Satellite precipitation retrievals with deep learning|2020|[AMSU](https://github.com/chrimerss/AMSU-MRMS)|
-|Global analysis of 20-yrs GPM IMERG|2020|[IMERG](https://github.com/chrimerss/20yrsGPM_Analysis)|
-|Tripple Collocation|2020|[TC method](https://github.com/chrimerss/TripleCollocation)|
-|Singapore radar|2019|NA|
-|CCTV rainfall camera|2019|[Rainfall Camera](https://github.com/chrimerss/RainfallCamera)|
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 [CREST-iMAP](https://github.com/chrimerss/CREST-iMAP)
+
+[![stars](https://img.shields.io/github/stars/chrimerss/CREST-iMAP?style=social)](https://github.com/chrimerss/CREST-iMAP/stargazers)
+
+**A differentiable, coupled hydrologic–hydraulic flood model in PyTorch.**
+v2 replaces the ANUGA solver with a well-balanced finite-volume scheme in
+~2k lines of PyTorch, keeping the CREST water balance — so the model is now
+differentiable end to end. Validated on Hurricane Harvey against 813 USGS
+high-water marks.
+
+`EMS 2021` · `flood inundation` · `PyTorch`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [EF5 / CREST](https://github.com/HyDROSLab/EF5)
+
+[![stars](https://img.shields.io/github/stars/HyDROSLab/EF5?style=social)](https://github.com/HyDROSLab/EF5/stargazers)
+
+**Ensemble Framework For Flash Flood Forecasting.** Continental-scale
+distributed hydrologic modeling with rapid forecast updates — SAC-SMA,
+CREST, and HP water balances coupled to linear-reservoir or kinematic-wave
+routing. [My fork](https://github.com/chrimerss/EF5) ·
+[manual](https://chrimerss.github.io/EF5/docs/) ·
+[CREST family](https://github.com/chrimerss/CREST-family)
+
+`operational` · `C++` · `flash floods`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 [HydroTuring](https://github.com/Flood-Lab/HydroTuring)
+
+[![stars](https://img.shields.io/github/stars/Flood-Lab/HydroTuring?style=social)](https://github.com/Flood-Lab/HydroTuring/stargazers)
+
+**Does your AI hydrologic model conserve mass, energy and momentum?**
+A benchmark that asks one question of any AI hydrologic model — not whether
+it fits a hydrograph, but whether its budgets close. Open to community
+probes and model submissions;
+[**contribute a probe, join the paper**](https://github.com/Flood-Lab/HydroTuring/blob/main/CONTRIBUTING.md).
+[flood-lab.github.io/HydroTuring](https://flood-lab.github.io/HydroTuring/)
+
+`benchmark` · `physics-informed ML` · `open call`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [HydroAgent](https://github.com/chrimerss/HydroAgent)
+
+[![stars](https://img.shields.io/github/stars/chrimerss/HydroAgent?style=social)](https://github.com/chrimerss/HydroAgent/stargazers)
+
+**RL fine-tuning of LLMs for hydrologic model calibration.** Trains
+tool-calling language models to calibrate EF5/CREST via multi-turn GRPO with
+online simulation feedback, so the model internalizes calibration reasoning
+instead of relying on prompt engineering.
+[Docs](https://chrimerss.github.io/HydroAgent/)
+
+`LLM agents` · `GRPO / verl` · `AI4Science`
+
+</td>
+</tr>
+</table>
 
 ## Activities
 ---
