@@ -57,13 +57,6 @@ Sui, X.; __Li, Z.__; Ma, Z.; Xu, J.; Zhu, S.; Liu, H. Ground Validation and Erro
 
 Cai, S., Zhou, S., Wu, P., __Li, Z.__, Deng, S., 2019. BIBLIOMETRIC ANALYSIS OF RESEARCH ON FISH METAL FROM 1997 TO 2016, FRESENIUS ENVIRONMENTAL BULLETIN
 
-## Conferences
----
-
-### AGU 2020 Fall meeting
-
-Oral presentation - Two-decades of GPM IMERG Early and Final Run Products Intercomparison: Similarity and Difference in Climatology, Rates, Extremes and Hydrologic Utilities
-
 ## Projects
 ---
 
